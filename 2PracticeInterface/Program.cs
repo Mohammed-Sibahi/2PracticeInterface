@@ -87,7 +87,7 @@ public class Program
 
     public static void DisplayShapeInfo(IShape shape)
     {
-        Console.WriteLine($"Shape Type: {shape.GetType().Name}");
+        Console.WriteLine($"Shape type: {shape.GetType().Name}");
         Console.WriteLine($"Area: {shape.CalculateArea()}");
         Console.WriteLine($"Perimeter: {shape.CalculatePerimeter()}");
         Console.WriteLine();
