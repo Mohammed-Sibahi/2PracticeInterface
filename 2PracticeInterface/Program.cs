@@ -41,7 +41,8 @@ public class Triangle : IShape
 
     public double CalculateArea()
     {
-        throw new NotImplementedException("Area calculation for a triangle is not implemented.");
+        double s = (Side1 + Side2 + Side3) / 2;
+        return Math.Sqrt(s * (s - Side1) * (s - Side2) * (s - Side3));
     }
 
     public double CalculatePerimeter()

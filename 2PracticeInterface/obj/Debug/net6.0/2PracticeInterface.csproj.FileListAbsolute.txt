@@ -1,0 +1,15 @@
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\bin\Debug\net6.0\2PracticeInterface.exe
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\bin\Debug\net6.0\2PracticeInterface.deps.json
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\bin\Debug\net6.0\2PracticeInterface.runtimeconfig.json
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\bin\Debug\net6.0\2PracticeInterface.dll
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\bin\Debug\net6.0\2PracticeInterface.pdb
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.csproj.AssemblyReference.cache
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.AssemblyInfoInputs.cache
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.AssemblyInfo.cs
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.csproj.CoreCompileInputs.cache
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.dll
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\refint\2PracticeInterface.dll
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.pdb
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\2PracticeInterface.genruntimeconfig.cache
+C:\Users\sibah\source\repos\2PracticeInterface\2PracticeInterface\obj\Debug\net6.0\ref\2PracticeInterface.dll
